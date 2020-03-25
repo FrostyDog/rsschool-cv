@@ -72,9 +72,9 @@ PainWorkshop website (React.js) | [PainWorkshop.pl](http://painworkshop.pl/) | [
 * **Javascript Udemy bootcamp**
 
 ### English
-**English Level - C1 (Proficient)**
-**IELTS English testing - 7,5 / 9**
-**Studying in USA and Canada**
+* **English Level - C1 (Proficient)**
+* **IELTS English testing - 7,5 / 9**
+* **Studying in USA and Canada**
 
 
 
