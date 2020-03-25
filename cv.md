@@ -71,7 +71,23 @@ module.exports = function check(str, bracketsConfig) {
 }
 ``` 
 
+### Experience
+**Freelance Web Dev from 2018, working on such projects: **
 
+Project | Link | Codebase
+------------ | ------------- |----------
+Space Shooter Template | [Koji.com](https://withkoji.com/~FrostyDog/c094cf76-cd62-46c3-b9a4-84099d758b4a) | [Codebase on Koji.com](https://withkoji.com/~FrostyDog/c094cf76-cd62-46c3-b9a4-84099d758b4a)
+PainWorkshop website (React.js) | [PainWorkshop.pl](http://painworkshop.pl/) | [Codebase](https://github.com/FrostyDog/Tattoo-Pain-Studio)
+
+### Education
+
+* **RS School - Frontend Mentorship Programm**
+* **Javascript Udemy bootcamp**
+
+### English
+**English Level - C1 (Proficient)**
+**IELTS English testing - 7,5 / 9**
+**Studying in USA and Canada**
 
 
 
